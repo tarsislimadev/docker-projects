@@ -2,7 +2,7 @@
 
 Desafios para vagas de programador
 
-Veja mais em [github.com/tmvdl/docker-challenges](https://github.com/tmvdl/docker-challenges)
+Veja mais em [github.com/brtmvdl/docker-challenges](https://github.com/brtmvdl/docker-challenges)
 
 ## Como usar
 

@@ -1,8 +1,8 @@
-# Challenges
+# Challenges in Docker
 
 Desafios para vagas de programador
 
-Veja mais em [hub.docker.com/r/tmvdl/docker-challenges](https://hub.docker.com/r/tmvdl/docker-challenges)
+Veja mais em [hub.docker.com/r/tmvdl/challenges](https://https://hub.docker.com/r/tmvdl/challenges)
 
 ## Como usar
 
