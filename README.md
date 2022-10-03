@@ -2,7 +2,7 @@
 
 Desafios para vagas de programador
 
-Veja mais em [hub.docker.com/r/tmvdl/challenges](https://https://hub.docker.com/r/tmvdl/challenges)
+Veja mais em [hub.docker.com/r/tmvdl/challenges](https://hub.docker.com/r/tmvdl/challenges)
 
 ## Como usar
 
