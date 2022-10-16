@@ -1,8 +1,8 @@
-name: Pushing to Docker Hub
+name: Push
 
 on:
-  schedule:
-    - cron: '10 * * * *'
+  push:
+    branches: ['main']
 
 jobs:
   docker:
