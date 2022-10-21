@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TAGS_DIR="$(pwd)/tags"
+TAGS_DIR="$(pwd)/src"
 YMD=$(date +%Y%m%d)
 YM=$(date +%Y%m)
 
