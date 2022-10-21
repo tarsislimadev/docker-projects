@@ -11,7 +11,3 @@ TODO
 ## License
 
 [MIT]()
-
-## Update
-
-Atualizado em 03/10/2022
