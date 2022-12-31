@@ -1,6 +1,6 @@
 # Projects in [Docker Hub]()
 
-Desafios para vagas de programador
+Desafios para vagas de programador e outros projetos
 
 Veja mais em [hub.docker.com/r/tmvdl/projects](https://hub.docker.com/r/tmvdl/projects)
 
