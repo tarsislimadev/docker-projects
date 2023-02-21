@@ -4,6 +4,12 @@ All my project as Docker images
 
 See more in [hub.docker.com/r/tmvdl/projects](https://hub.docker.com/r/tmvdl/projects)
 
+## How to use
+
+```
+docker run --rm -d --network host tmvdl/projects:httrack  "https://..."
+```
+
 ## Projects
 
 * [app](https://github.com/brtmvdl/app)
