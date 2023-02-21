@@ -6,6 +6,6 @@ services:
     image: tmvdl/downloads:latest
     build: './src/latest'
 
-  rasp:
-    image: tmvdl/downloads:rasp
-    build: './src/rasp'
+  httrack:
+    image: tmvdl/downloads:httrack
+    build: './src/httrack'
