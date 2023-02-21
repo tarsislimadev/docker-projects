@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  latest:
+    image: tmvdl/downloads:latest
+    build: './src/latest'
+
+  rasp:
+    image: tmvdl/downloads:rasp
+    build: './src/rasp'
