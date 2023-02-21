@@ -3,9 +3,9 @@ version: '3'
 services:
 
   latest:
-    image: tmvdl/downloads:latest
+    image: tmvdl/projects:latest
     build: './src/latest'
 
   httrack:
-    image: tmvdl/downloads:httrack
+    image: tmvdl/projects:httrack
     build: './src/httrack'
