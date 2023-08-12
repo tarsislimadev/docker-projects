@@ -1,11 +1,7 @@
-# FROM nginx:stable
-
 FROM alpine:3.18
 
 WORKDIR /app
 
-# RUN  apt-get update -y && apt-get install -y httrack
-
-RUN apk add httrack
+RUN apk add --no-cache httrack
 
 CMD httrack "${@}"
