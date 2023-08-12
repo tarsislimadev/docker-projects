@@ -1,1 +1,1 @@
-FROM ubuntu:22.04
+FROM alpine:3.18
