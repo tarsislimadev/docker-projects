@@ -1,7 +1,7 @@
-FROM alpine:3.18
+FROM ubuntu:23.04
 
 WORKDIR /app
 
-RUN apk add --no-cache httrack
+RUN apt update && apt install -y httrack
 
 CMD httrack "${@}"
