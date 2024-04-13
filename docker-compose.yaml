@@ -9,3 +9,7 @@ services:
   httrack:
     image: tmvdl/projects:httrack
     build: './src/httrack'
+
+  aliyun:
+    image: tmvdl/projects:aliyun
+    build: './src/aliyun'
