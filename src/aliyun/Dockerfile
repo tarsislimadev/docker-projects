@@ -1,3 +1,5 @@
+# https://www.alibabacloud.com/help/en/cli/install-cli-on-linux
+
 FROM ubuntu:22.04
 
 WORKDIR /aliyun
