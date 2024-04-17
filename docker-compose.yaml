@@ -13,3 +13,7 @@ services:
   aliyun:
     image: tmvdl/projects:aliyun
     build: './src/aliyun'
+
+  espeak:
+    image: tmvdl/projects:espeak
+    build: './src/espeak'
